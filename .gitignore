@@ -1,0 +1,19 @@
+# Ignore raw data files
+cleanedDiaryEntries.csv
+data-raw/
+raw_data/
+*.key
+*.pem
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+
+# OS-generated
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
